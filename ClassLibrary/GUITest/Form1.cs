@@ -8,13 +8,24 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using WishlistLib.User;
+using WishlistInterfaces;
+
 namespace GUITest
 {
     public partial class Form1 : Form
-    {
+    {       
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            User u = new User();
+
+            bool result = u.Login("Test", "Test");
         }
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary
+namespace WishlistLib.User
 {
-    public class Class1
+    public class Group
     {
     }
 }

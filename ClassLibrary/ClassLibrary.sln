@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{4BE570A7-F443-4113-B88C-F3297D5E5F3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WishlistLib", "ClassLibrary\WishlistLib.csproj", "{4BE570A7-F443-4113-B88C-F3297D5E5F3B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUITest", "GUITest\GUITest.csproj", "{BF15C178-B3FC-4494-A0FA-0B4B9FD33711}"
 EndProject
