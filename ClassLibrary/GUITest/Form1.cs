@@ -15,12 +15,12 @@ namespace GUITest
 {
     public partial class Form1 : Form
     {       
-
+	//TEST MASTER BRANCHE
         public Form1()
         {
             InitializeComponent();
         }
-
+	//EXTRA BERICHT VOOR MERGE TEST
         private void btnTest_Click(object sender, EventArgs e)
         {
             User u = new User();
